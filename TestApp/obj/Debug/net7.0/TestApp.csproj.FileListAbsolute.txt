@@ -1,0 +1,15 @@
+E:\csrepos\TestApp\bin\Debug\net7.0\TestApp.exe
+E:\csrepos\TestApp\bin\Debug\net7.0\TestApp.deps.json
+E:\csrepos\TestApp\bin\Debug\net7.0\TestApp.runtimeconfig.json
+E:\csrepos\TestApp\bin\Debug\net7.0\TestApp.dll
+E:\csrepos\TestApp\bin\Debug\net7.0\TestApp.pdb
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.dll
+E:\csrepos\TestApp\obj\Debug\net7.0\refint\TestApp.dll
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.pdb
+E:\csrepos\TestApp\obj\Debug\net7.0\TestApp.genruntimeconfig.cache
+E:\csrepos\TestApp\obj\Debug\net7.0\ref\TestApp.dll
